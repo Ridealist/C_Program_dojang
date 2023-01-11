@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+int pointer()
 {
     /*
     역참조 연산자 "*"
