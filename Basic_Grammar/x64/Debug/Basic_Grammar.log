@@ -1,2 +1,10 @@
-﻿  input.c
+﻿  pointer.c
+C:\Users\Junbo Koh\Desktop\CWorkspace\Basic_Grammar\Basic_Grammar\pointer.c(22,12): warning C4477: 'printf' : 서식 문자열 '%lu'에 'unsigned long' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\Junbo Koh\Desktop\CWorkspace\Basic_Grammar\Basic_Grammar\pointer.c(22,12): message : 서식 문자열에서 '%zu'을(를) 사용하는 것이 좋습니다.
+C:\Users\Junbo Koh\Desktop\CWorkspace\Basic_Grammar\Basic_Grammar\pointer.c(23,12): warning C4477: 'printf' : 서식 문자열 '%lu'에 'unsigned long' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\Junbo Koh\Desktop\CWorkspace\Basic_Grammar\Basic_Grammar\pointer.c(23,12): message : 서식 문자열에서 '%zu'을(를) 사용하는 것이 좋습니다.
+C:\Users\Junbo Koh\Desktop\CWorkspace\Basic_Grammar\Basic_Grammar\pointer.c(24,12): warning C4477: 'printf' : 서식 문자열 '%lu'에 'unsigned long' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\Junbo Koh\Desktop\CWorkspace\Basic_Grammar\Basic_Grammar\pointer.c(24,12): message : 서식 문자열에서 '%zu'을(를) 사용하는 것이 좋습니다.
+C:\Users\Junbo Koh\Desktop\CWorkspace\Basic_Grammar\Basic_Grammar\pointer.c(25,12): warning C4477: 'printf' : 서식 문자열 '%lu'에 'unsigned long' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\Junbo Koh\Desktop\CWorkspace\Basic_Grammar\Basic_Grammar\pointer.c(25,12): message : 서식 문자열에서 '%zu'을(를) 사용하는 것이 좋습니다.
   Basic_Grammar.vcxproj -> C:\Users\Junbo Koh\Desktop\CWorkspace\Basic_Grammar\x64\Debug\Basic_Grammar.exe

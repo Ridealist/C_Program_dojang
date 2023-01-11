@@ -130,7 +130,7 @@
     <ClCompile Include="bitwise.c" />
     <ClCompile Include="hello.c" />
     <ClCompile Include="input.c" />
-    <ClCompile Include="소스.c" />
+    <ClCompile Include="pointer.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
