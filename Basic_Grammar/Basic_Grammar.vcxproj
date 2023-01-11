@@ -130,6 +130,7 @@
     <ClCompile Include="bitwise.c" />
     <ClCompile Include="hello.c" />
     <ClCompile Include="input.c" />
+    <ClCompile Include="memory.c" />
     <ClCompile Include="pointer.c" />
     <ClCompile Include="pointerTwo.c" />
   </ItemGroup>
