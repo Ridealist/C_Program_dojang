@@ -18,5 +18,14 @@
     <ClCompile Include="hello.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="bitwise.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="input.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소스.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
