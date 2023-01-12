@@ -2,7 +2,7 @@
 #include <stdlib.h> // malloc, free 함수가 선언된 헤더 파일
 #include <string.h> // meset 함수 선언
 
-int main()
+int memory()
 {
     // 1. 메모리 할당
     int num1 = 20;

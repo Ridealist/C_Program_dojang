@@ -127,7 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="array.c" />
     <ClCompile Include="bitwise.c" />
+    <ClCompile Include="covert_binary.c" />
     <ClCompile Include="hello.c" />
     <ClCompile Include="input.c" />
     <ClCompile Include="memory.c" />
