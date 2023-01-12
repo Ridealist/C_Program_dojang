@@ -1,2 +1,6 @@
-﻿  covert_binary.c
+﻿  two_dimensional_array.c
+C:\Users\Junbo Koh\Desktop\CWorkspace\Basic_Grammar\Basic_Grammar\two_dimensional_array.c(59,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\Junbo Koh\Desktop\CWorkspace\Basic_Grammar\Basic_Grammar\two_dimensional_array.c(59,12): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\Junbo Koh\Desktop\CWorkspace\Basic_Grammar\Basic_Grammar\two_dimensional_array.c(119,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\Junbo Koh\Desktop\CWorkspace\Basic_Grammar\Basic_Grammar\two_dimensional_array.c(119,12): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
   Basic_Grammar.vcxproj -> C:\Users\Junbo Koh\Desktop\CWorkspace\Basic_Grammar\x64\Debug\Basic_Grammar.exe
