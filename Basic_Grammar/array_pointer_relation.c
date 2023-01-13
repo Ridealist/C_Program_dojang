@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+int arrayToPointerRelation()
 {
     int arr[3] = { 5, 10, 15 };  // arr = 00000063E40FFB48
 

@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+int two_di_array()
 {
     // 1. 2차원 배열 선언하기
     int numArr[3][4] = {  // 세로 크기 3, 가로 크기 4인 int형 2차원 배열 선언
@@ -138,9 +138,9 @@ int main()
     numArrThree[1][2][3] = 0;
 
     // 깊이 행 렬
-    int depth = sizeof(numArrThree) / sizeof(numArrThree[0]);
-    int row = sizeof(numArrThree[0]) / sizeof(numArrThree[0][0]);
-    int col = sizeof(numArrThree[0][0]) / sizeof(int);
+    //int depth = sizeof(numArrThree) / sizeof(numArrThree[0]);
+    //int row = sizeof(numArrThree[0]) / sizeof(numArrThree[0][0]);
+    //int col = sizeof(numArrThree[0][0]) / sizeof(int);
 
     // 포인터
     // 자료형 (*포인터이름)[세로크기=row][가로크기=col]
