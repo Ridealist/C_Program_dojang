@@ -134,6 +134,7 @@
     <ClCompile Include="find_bomb.c" />
     <ClCompile Include="hello.c" />
     <ClCompile Include="input.c" />
+    <ClCompile Include="input_to_string.c" />
     <ClCompile Include="memory.c" />
     <ClCompile Include="pointer.c" />
     <ClCompile Include="pointerTwo.c" />
@@ -143,6 +144,7 @@
     <ClCompile Include="two_dimensional_array.c" />
     <ClCompile Include="three_demensinal_array.c" />
     <ClCompile Include="making_unit_array.c" />
+    <ClCompile Include="string_split.c" />
     <ClCompile Include="소스.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

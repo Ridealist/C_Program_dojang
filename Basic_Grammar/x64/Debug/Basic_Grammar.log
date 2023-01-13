@@ -1,2 +1,3 @@
-﻿  making_unit_array.c
-  Basic_Grammar.vcxproj -> C:\Users\Junbo Koh\Desktop\CWorkspace\Basic_Grammar\x64\Debug\Basic_Grammar.exe
+﻿  소스.c
+C:\Users\Junbo Koh\Desktop\CWorkspace\C_Program_dojang\Basic_Grammar\소스.c(15,5): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Basic_Grammar.vcxproj -> C:\Users\Junbo Koh\Desktop\CWorkspace\C_Program_dojang\x64\Debug\Basic_Grammar.exe
