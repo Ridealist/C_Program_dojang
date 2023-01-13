@@ -131,16 +131,19 @@
     <ClCompile Include="array_pointer_relation.c" />
     <ClCompile Include="bitwise.c" />
     <ClCompile Include="covert_binary.c" />
+    <ClCompile Include="find_bomb.c" />
     <ClCompile Include="hello.c" />
     <ClCompile Include="input.c" />
     <ClCompile Include="memory.c" />
     <ClCompile Include="pointer.c" />
     <ClCompile Include="pointerTwo.c" />
     <ClCompile Include="pointer_and_array.c" />
+    <ClCompile Include="string.c" />
     <ClCompile Include="swap.c" />
     <ClCompile Include="two_dimensional_array.c" />
     <ClCompile Include="three_demensinal_array.c" />
     <ClCompile Include="making_unit_array.c" />
+    <ClCompile Include="소스.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
