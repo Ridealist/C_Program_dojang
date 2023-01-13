@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="applied_bit_cal.c" />
     <ClCompile Include="array.c" />
     <ClCompile Include="array_pointer_relation.c" />
     <ClCompile Include="bitwise.c" />
