@@ -51,5 +51,11 @@
     <ClCompile Include="array_pointer_relation.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="three_demensinal_array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="making_unit_array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
