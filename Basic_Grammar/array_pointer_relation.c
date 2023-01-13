@@ -55,16 +55,16 @@ int arrayToPointerRelation()
     int arr1[3] = { 5, 10, 15 };
     double arr2[3] = { 5.5, 10.5, 15.5 };
 
-    printf("arr1 = %d\n", arr1);  // 4씩 증가
-    printf("(arr1 + 1) = %d\n", (arr1 + 1));
-    printf("(arr1 + 2) = %d\n", (arr1 + 2));
+    printf("arr1 = %p\n", arr1);  // 4씩 증가
+    printf("(arr1 + 1) = %p\n", (arr1 + 1));
+    printf("(arr1 + 2) = %p\n", (arr1 + 2));
     printf("*(arr1 + 1) = %d\n\n", *(arr1 + 1));  // *(arr1 + 1) = 10
     // (arr + 1) 에서 1 은 arr[1] 이라고 볼 수 있다.
 
 
-    printf("arr2 = %d\n", arr2);  // 8씩 증가
-    printf("(arr2+ 1) = %d\n", (arr2 + 1));
-    printf("(arr2 + 2) = %d\n", (arr2 + 2));
+    printf("arr2 = %p\n", arr2);  // 8씩 증가
+    printf("(arr2+ 1) = %p\n", (arr2 + 1));
+    printf("(arr2 + 2) = %p\n", (arr2 + 2));
     printf("*(arr2 + 1) = %.2f\n", *(arr2 + 1));  // *(arr2 + 1) = 10.50
 
 

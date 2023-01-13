@@ -1,14 +1,2 @@
-﻿  array_pointer_relation.c
-C:\Users\Junbo Koh\Desktop\CWorkspace\Basic_Grammar\Basic_Grammar\array_pointer_relation.c(58,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
-C:\Users\Junbo Koh\Desktop\CWorkspace\Basic_Grammar\Basic_Grammar\array_pointer_relation.c(58,12): warning C4313: 'printf': 서식 문자열의 '%d'이(가) int *' 형식의 인수 1과(와) 충돌합니다.
-C:\Users\Junbo Koh\Desktop\CWorkspace\Basic_Grammar\Basic_Grammar\array_pointer_relation.c(59,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
-C:\Users\Junbo Koh\Desktop\CWorkspace\Basic_Grammar\Basic_Grammar\array_pointer_relation.c(59,12): warning C4313: 'printf': 서식 문자열의 '%d'이(가) int *' 형식의 인수 1과(와) 충돌합니다.
-C:\Users\Junbo Koh\Desktop\CWorkspace\Basic_Grammar\Basic_Grammar\array_pointer_relation.c(60,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
-C:\Users\Junbo Koh\Desktop\CWorkspace\Basic_Grammar\Basic_Grammar\array_pointer_relation.c(60,12): warning C4313: 'printf': 서식 문자열의 '%d'이(가) int *' 형식의 인수 1과(와) 충돌합니다.
-C:\Users\Junbo Koh\Desktop\CWorkspace\Basic_Grammar\Basic_Grammar\array_pointer_relation.c(63,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double *'입니다.
-C:\Users\Junbo Koh\Desktop\CWorkspace\Basic_Grammar\Basic_Grammar\array_pointer_relation.c(63,12): warning C4313: 'printf': 서식 문자열의 '%d'이(가) double *' 형식의 인수 1과(와) 충돌합니다.
-C:\Users\Junbo Koh\Desktop\CWorkspace\Basic_Grammar\Basic_Grammar\array_pointer_relation.c(64,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double *'입니다.
-C:\Users\Junbo Koh\Desktop\CWorkspace\Basic_Grammar\Basic_Grammar\array_pointer_relation.c(64,12): warning C4313: 'printf': 서식 문자열의 '%d'이(가) double *' 형식의 인수 1과(와) 충돌합니다.
-C:\Users\Junbo Koh\Desktop\CWorkspace\Basic_Grammar\Basic_Grammar\array_pointer_relation.c(65,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double *'입니다.
-C:\Users\Junbo Koh\Desktop\CWorkspace\Basic_Grammar\Basic_Grammar\array_pointer_relation.c(65,12): warning C4313: 'printf': 서식 문자열의 '%d'이(가) double *' 형식의 인수 1과(와) 충돌합니다.
+﻿  pointer_and_array.c
   Basic_Grammar.vcxproj -> C:\Users\Junbo Koh\Desktop\CWorkspace\Basic_Grammar\x64\Debug\Basic_Grammar.exe
