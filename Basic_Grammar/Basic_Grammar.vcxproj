@@ -142,12 +142,12 @@
     <ClCompile Include="pointerTwo.c" />
     <ClCompile Include="pointer_and_array.c" />
     <ClCompile Include="string.c" />
+    <ClCompile Include="string_copy_paste.c" />
     <ClCompile Include="swap.c" />
     <ClCompile Include="two_dimensional_array.c" />
     <ClCompile Include="three_demensinal_array.c" />
     <ClCompile Include="making_unit_array.c" />
     <ClCompile Include="string_split.c" />
-    <ClCompile Include="소스.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
