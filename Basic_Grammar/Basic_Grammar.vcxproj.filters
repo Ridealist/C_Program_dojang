@@ -63,6 +63,18 @@
     <ClCompile Include="string.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="applied_bit_cal.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="input_to_string.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="string_split.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="compare_string_len.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="소스.c">
       <Filter>소스 파일</Filter>
     </ClCompile>

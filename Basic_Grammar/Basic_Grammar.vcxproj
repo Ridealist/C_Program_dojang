@@ -131,6 +131,7 @@
     <ClCompile Include="array.c" />
     <ClCompile Include="array_pointer_relation.c" />
     <ClCompile Include="bitwise.c" />
+    <ClCompile Include="compare_string_len.c" />
     <ClCompile Include="covert_binary.c" />
     <ClCompile Include="find_bomb.c" />
     <ClCompile Include="hello.c" />
