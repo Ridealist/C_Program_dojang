@@ -55,3 +55,6 @@ dkms.conf
 [^\.]!*.*
 String/*.exe
 String/*.exec
+
+# IDE
+.vscode
